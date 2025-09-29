@@ -25,7 +25,7 @@ Browser History
 
 Syntax Parsing
 
-Basic Operations
+# Basic Operations
 Inserting Elements-In stack, new elements can only be inserted at the top of the stack by using push() method.
 
 Accessing Elements-Only the top element of the stack can be accessed using top() method.
